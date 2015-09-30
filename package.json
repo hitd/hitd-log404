@@ -1,0 +1,15 @@
+{
+  "name": "hitd-log404",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hitd-handler": "^1.1.7"
+  }
+}
